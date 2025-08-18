@@ -26,7 +26,7 @@ Educational institutions often require students to complete community service ho
 - [Move Language](https://github.com/move-language/move) (Smart Contracts)  
 - Aptos Framework (`event`, `timestamp`, `account`)
 
-##Photo
+## Photo
 
 
 <img width="1914" height="974" alt="Screenshot 2025-08-17 005840" src="https://github.com/user-attachments/assets/521a2711-254d-425f-b905-be989580b288" />
@@ -40,12 +40,9 @@ Educational institutions often require students to complete community service ho
 
 ##Photo
 
+<img width="1919" height="979" alt="Screenshot 2025-08-19 033523" src="https://github.com/user-attachments/assets/e8eaac48-4927-4542-a29c-4fbbd55ede18" />
 
-<img width="1913" height="979" alt="Screenshot 2025-08-17 010256" src="https://github.com/user-attachments/assets/7aed74a0-3655-4dfa-83fa-0022ce7a17e3" />
-
-
-
-<img width="1917" height="969" alt="Screenshot 2025-08-17 005953" src="https://github.com/user-attachments/assets/820f95d5-80f8-40bc-b910-70b6f0ee6eb9" />
+<img width="1882" height="967" alt="Screenshot 2025-08-19 033601" src="https://github.com/user-attachments/assets/8d6f257e-4b70-451d-bec1-4096fa4ff55f" />
 
 ---
 
@@ -63,6 +60,12 @@ Educational institutions often require students to complete community service ho
 
 ---
 
+## Vedio Demo
+
+
+
+
+
 ## 🚀 Project Setup
 
 ### 🔹 Smart Contract (Move)
@@ -70,4 +73,3 @@ Educational institutions often require students to complete community service ho
 aptos move init
 aptos move compile
 aptos move publish --profile default
-
