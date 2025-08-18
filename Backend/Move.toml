@@ -1,0 +1,10 @@
+[package]
+name = "ledger"
+version = "0.0.1"
+
+[addresses]
+ledger = "0x12b1b99992b8c9483a5c17e4dfce57e199e44e431e3a97fd57a1bbfb25d7c7ae"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+MoveStdlib     = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/move-stdlib", rev = "main" }
