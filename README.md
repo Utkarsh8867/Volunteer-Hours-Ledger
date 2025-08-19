@@ -31,14 +31,16 @@ Educational institutions often require students to complete community service ho
 
 <img width="1914" height="974" alt="Screenshot 2025-08-17 005840" src="https://github.com/user-attachments/assets/521a2711-254d-425f-b905-be989580b288" />
 
+<img width="1050" height="613" alt="478651313-0e5b0cdb-2e97-4d8c-abbd-ff0ff8c3a5f0" src="https://github.com/user-attachments/assets/43993d28-bdc4-436e-86be-63dcce36483e" />
 
 
 **Frontend**
+
 - React + TailwindCSS (UI)  
 - Petra Wallet Integration (Aptos wallet)  
 - Aptos JavaScript SDK
 
-##Photo
+## Photo
 
 <img width="1919" height="979" alt="Screenshot 2025-08-19 033523" src="https://github.com/user-attachments/assets/e8eaac48-4927-4542-a29c-4fbbd55ede18" />
 
